@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-#### I'm Jesus Trejo, data scientist enthusiast and longlife learner.
+#### I'm Jesus Trejo, master in applied sciences, data scientist enthusiast and longlife learner.
 
  🎓 Postgraduate student and researcher at [Scientific Research Center and Higher Education, Ensenada, BC](https://www.cicese.edu.mx/).
  
