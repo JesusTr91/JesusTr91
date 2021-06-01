@@ -43,15 +43,8 @@
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
  
+ <p>    </p>
+ 
 <p>"I am always doing what I cannot do yet, in order to learn how to do it"</p>
                                                       <p>Vincent Van Gogh</p>
 </br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="shwetarkadam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JesusTr91&show_icons=true&hide_border=true" />
-
-</details>
-
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/<22trmqomygfn4wcdmeh2qbnta>)
