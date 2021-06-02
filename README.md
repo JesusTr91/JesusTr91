@@ -46,6 +46,6 @@
  
  <p>    </p>
  
-<p>"I am always doing what I cannot do yet, in order to learn how to do it"</p>
+<p>"I am always doing what I cannot do yet, in order to learn how  to do it"</p>
                                                       <p>Vincent Van Gogh</p>
 </br>
