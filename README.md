@@ -8,7 +8,7 @@
  
  💻 Interested in machine learning, customer analytics, finance, flask and streamlit.
  
- 🌟 Love to play music and make cinematic videos.
+ 🌟 Also musician and cinematic filmmaker.
  
  ## Languages and Tools
 
